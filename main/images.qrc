@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>back1.jpg</file>
+        <file>back2.jpg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Hangman's Tree.JPG</file>
+    </qresource>
+    <qresource prefix="/exit">
+        <file>delete.png</file>
+    </qresource>
+    <qresource prefix="/retry">
+        <file>restart</file>
+    </qresource>
+</RCC>

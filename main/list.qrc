@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/FileList">
+        <file>Movie.txt</file>
+        <file>FruitsName.txt</file>
+        <file>Protagonist.txt</file>
+        <file>AnimalNames.txt</file>
+    </qresource>
+</RCC>
